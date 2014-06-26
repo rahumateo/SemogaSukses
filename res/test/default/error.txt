@@ -1,0 +1,11 @@
+When was the death penalty abolished in France?
+-AnswerPatternFilter
+
+What is the name of Kim Il Sung's son?
+-AnswerTypeFilter
+
+Where is methane extracted from?
+-AnswerTypeFilter
+
+What is Mika Kaurismäki's brother's name?
+-AnswerTypeFilter

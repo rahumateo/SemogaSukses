@@ -1,0 +1,110 @@
+*** System starts *** : Mon Jun 02 11:37:38 ICT 2014
+*** Finish Initializing *** : Mon Jun 02 11:37:38 ICT 2014
+*** Time spent : 33 seconds ***
+
+*** Reading Question : When did the reunification of East Germany and West Germany take place? *** : Mon Jun 02 11:37:38 ICT 2014
+ --                  Answer:                  --
+[1]	June 11, 1990
+	Score: 1.803747
+	Document: LA062394-0221
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 11:37:38 ICT 2014
+*** Time spent : 141 seconds ***
+
+*** Reading Question : Who is the president of FIAT? *** : Mon Jun 02 11:37:38 ICT 2014
+ --                  Answer:                  --
+[1]	Alfa Romeo
+	Score: 0.43872604
+	Document: LA053194-0110
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 11:37:38 ICT 2014
+*** Time spent : 402 seconds ***
+
+*** Reading Question : Who imposed the embargo on Iraq? *** : Mon Jun 02 11:37:38 ICT 2014
+ --                  Answer:                  --
+[1]	Clinton
+	Score: 0.09643944
+	Document: LA082494-0214
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 11:37:38 ICT 2014
+*** Time spent : 87 seconds ***
+
+*** Reading Question : In which country is Bosnia located? *** : Mon Jun 02 11:37:38 ICT 2014
+ --                  Answer:                  --
+[1]	Croatia
+	Score: 1.2474742
+	Document: LA022794-0340
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 11:37:38 ICT 2014
+*** Time spent : 226 seconds ***
+
+*** Reading Question : Who built the Berlin Wall? *** : Mon Jun 02 11:37:38 ICT 2014
+ --                  Answer:                  --
+[1]	Clinton
+	Score: 1.3159939
+	Document: LA071394-0252
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 11:37:38 ICT 2014
+*** Time spent : 400 seconds ***
+
+*** Reading Question : Who is the president of the Republic of Italy? *** : Mon Jun 02 11:37:38 ICT 2014
+ --                  Answer:                  --
+[1]	Mr Dick Spring
+	Score: 0.69153786
+	Document: GH951003-000191
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 11:37:38 ICT 2014
+*** Time spent : 458 seconds ***
+
+*** Reading Question : Who is the president of the United States? *** : Mon Jun 02 11:37:38 ICT 2014
+ --                  Answer:                  --
+[1]	Warren Christopher
+	Score: 1.0542539
+	Document: LA052894-0144
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 11:37:38 ICT 2014
+*** Time spent : 619 seconds ***
+
+*** Reading Question : What is the capital of the Republic of South Africa? *** : Mon Jun 02 11:37:38 ICT 2014
+ --                  Answer:                  --
+[1]	provide
+	Score: 0.3987886
+	Document: LA060394-0239
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 11:37:38 ICT 2014
+*** Time spent : 79 seconds ***
+
+*** Reading Question : When was the EEC founded? *** : Mon Jun 02 11:37:38 ICT 2014
+ --                  Answer:                  --
+[1]	April 21, 1992
+	Score: 0.436736
+	Document: LA010294-0234
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 11:37:38 ICT 2014
+*** Time spent : 9 seconds ***
+
+*** Reading Question : How many inhabitants does Sweden have? *** : Mon Jun 02 11:37:38 ICT 2014
+ --                  Answer:                  --
+[1]	1914, 1918, 1935, 1940, 1941, 1942
+	Score: 0.0026836093
+	Document: LA100294-0024
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 11:37:38 ICT 2014
+*** Time spent : 49 seconds ***
+
+*** Reading Question : How many inhabitants are there in Berlin? *** : Mon Jun 02 11:37:38 ICT 2014
+ --                  Answer:                  --
+[1]	100,000
+	Score: 8.1056795
+	Document: LA120494-0318
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 11:37:38 ICT 2014
+*** Time spent : 213 seconds ***
+
+*** Reading Question : How much does a pill of extasy cost in Holland? *** : Mon Jun 02 11:37:38 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 11:37:38 ICT 2014
+*** Time spent : 140 seconds ***
+
+*** Reading Question : What is the name of the Dutch Prime Minister? *** : Mon Jun 02 11:37:38 ICT 2014

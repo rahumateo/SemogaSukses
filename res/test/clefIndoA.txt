@@ -1,0 +1,2179 @@
+*** System starts *** : Wed Jun 04 17:57:11 ICT 2014
+*** Finish Initializing *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 22 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+[1]	Indian Prime Minister Rajiv Gandhi and Sri Lankan President Ranasinghe Premadasa
+	Score: 0.006015878
+	Document: LA042494-0162
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 439 seconds ***
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah presiden Republik Italy? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Kapankah EEC didirikan? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Apakah nama Perdana Menteri Belanda? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapa banyak penduduk yahudi yang dimiliki Israel? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapa penduduk yang dimiliki Irak? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapa banyak negara anggota Perserikatan Bangsa-Bangsa? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Kapankah Perserikatan Bangsa-Bangsa memutuskan untuk mengadakan embargo ke Irak? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Siapakah pemimpin dari Bosnia? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+[1]	German Chancellor Helmut Kohl and Mr Major
+	Score: 1.1810263
+	Document: GH950527-000204
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Kapankah hukuman mati terhapus di Perancis? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Siapakah presiden dari Republik Perancis? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapa lamakah Kim Il Sung berkuasa di Korea Utara? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapa banyak populasi di Moscow? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Apa nama putra dari Kim Il Sung? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapakah skor pertandingan antara Italia Norwegia pada piala dunia sepakbola? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Kapankah Republik Afrika Selatan didirikan? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Siapakah presiden Yugoslavia? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Siapakah yang mengadopsi konstitusi baru di Afrika? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah pendiri dari the Order of the Solar Temple? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Pada umur berapakah Joseph di Mambro meninggal? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Berapakah jarak antara bumi dan matahari? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapakah populasi dunia? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Pada tahun berapakah Spanyol masuk ke European Community? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah presiden dari Parlemen Eropa? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Apakah kepanjangan dari GATT? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapakah panjang dari tembok Berlin? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Apakah nama dari valuta Cina? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah presiden Rusia? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+[1]	The Richard Nixon Presidential Library and Birthplace
+	Score: 1.6328403
+	Document: LA042194-0185
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah presiden Korea Utara? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+[1]	Because the New York Stock Exchange
+	Score: 1.6134969
+	Document: LA033194-0246
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapakah populasi Asia? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Berapa banyak negara anggota Uni Eropa? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Dari apakah ekstrak methane? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Dimanakah bom atom pertama meledak? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Apakah ibu kota dari Rusia? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+[1]	Moscow
+	Score: 0.38750857
+	Document: LA092494-0106
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Di negara bagian manakah San Fransisco? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Di kota manakah Menara Eiffel? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Dimanakah Vatican? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+[1]	LA
+	Score: 0.47537044
+	Document: LA010194-0104
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 35 seconds ***
+
+*** Reading Question : Di laut manakah Titanic tenggelam? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Dimanakah Adolf Hitler lahir? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah menteri ekonomi Jerman? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapakah panjang dari Eurotunnel? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapa banyak planet di tata surya? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapakah suhu dari permukaan matahari? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Siapakah orang pertama yang mendarat di bulan? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+[1]	Donald Macdonald of Kinlochmoidart
+	Score: 0.9448211
+	Document: GH951230-000002
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Berapakah jumlah pegawai Air France? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah istri dari John Lennon? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Di kota manakah stadion Delle Alpi? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Ada berapa banyakkah jenis hiu? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Apakah ibukota dari Turkmenistan? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Siapakah yang memenangkan Tour de France? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah saudara laki-laki dari Mika Kaurismäki? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Tahun berapakah Ayrton Senna meninggal? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Pada tahun berapakah dana moneter internasional didirikan? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Pada tahun berapakah bank dunia didirikan? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Kapankah Austria bergabung dengan Schengen? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Kapankah bom atom pertama meledak? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah presiden Peru? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Kapankah embargo ke Irak dimulai? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Apakah ibukota Korea Utara? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Apakah ibukota Irlandia? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Dimanakah Euskirchen? *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+[1]	Bonn
+	Score: 0.11715864
+	Document: LA031094-0206
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : exit *** : Wed Jun 04 17:57:11 ICT 2014
+ --                  Answer:                  --
+[1]	Bonn
+	Score: 0.11715864
+	Document: LA031094-0206
+ --               end of answer               --
+*** Finish Answering A Question *** : Wed Jun 04 17:57:11 ICT 2014
+*** Time spent : 0 seconds ***
+*** System starts *** : Wed Jun 04 23:33:20 ICT 2014
+*** System starts *** : Wed Jun 04 23:35:06 ICT 2014
+*** System starts *** : Wed Jun 04 23:37:26 ICT 2014
+*** System starts *** : Wed Jun 04 23:38:01 ICT 2014
+*** Finish Initializing *** : Wed Jun 04 23:38:01 ICT 2014
+*** Time spent : 26 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italy? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Apakah nama Perdana Menteri Belanda? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Berapa banyak penduduk yahudi yang dimiliki Israel? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Berapa penduduk yang dimiliki Irak? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Berapa banyak negara anggota Perserikatan Bangsa-Bangsa? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Kapankah Perserikatan Bangsa-Bangsa memutuskan untuk mengadakan embargo ke Irak? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Siapakah pemimpin dari Bosnia? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Kapankah hukuman mati terhapus di Perancis? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Siapakah presiden dari Republik Perancis? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Berapa lamakah Kim Il Sung berkuasa di Korea Utara? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Berapa banyak populasi di Moscow? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Apa nama putra dari Kim Il Sung? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Berapakah skor pertandingan antara Italia Norwegia pada piala dunia sepakbola? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Kapankah Republik Afrika Selatan didirikan? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Siapakah presiden Yugoslavia? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Siapakah yang mengadopsi konstitusi baru di Afrika? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Siapakah pendiri dari the Order of the Solar Temple? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Pada umur berapakah Joseph di Mambro meninggal? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Berapakah jarak antara bumi dan matahari? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Berapakah populasi dunia? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Pada tahun berapakah Spanyol masuk ke European Community? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Siapakah presiden dari Parlemen Eropa? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Apakah kepanjangan dari GATT? *** : Wed Jun 04 23:38:01 ICT 2014
+
+*** Reading Question : Berapakah panjang dari tembok Berlin? *** : Wed Jun 04 23:38:01 ICT 2014
+*** System starts *** : Wed Jun 04 23:42:37 ICT 2014
+*** Finish Initializing *** : Wed Jun 04 23:42:37 ICT 2014
+*** Time spent : 27 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italy? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Apakah nama Perdana Menteri Belanda? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Berapa banyak penduduk yahudi yang dimiliki Israel? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Berapa penduduk yang dimiliki Irak? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Berapa banyak negara anggota Perserikatan Bangsa-Bangsa? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Kapankah Perserikatan Bangsa-Bangsa memutuskan untuk mengadakan embargo ke Irak? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Siapakah pemimpin dari Bosnia? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Kapankah hukuman mati terhapus di Perancis? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Siapakah presiden dari Republik Perancis? *** : Wed Jun 04 23:42:37 ICT 2014
+
+*** Reading Question : Berapa lamakah Kim Il Sung berkuasa di Korea Utara? *** : Wed Jun 04 23:42:37 ICT 2014
+*** System starts *** : Wed Jun 04 23:45:48 ICT 2014
+*** Finish Initializing *** : Wed Jun 04 23:45:48 ICT 2014
+*** Time spent : 20 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italy? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Apakah nama Perdana Menteri Belanda? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapa banyak penduduk yahudi yang dimiliki Israel? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapa penduduk yang dimiliki Irak? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapa banyak negara anggota Perserikatan Bangsa-Bangsa? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Kapankah Perserikatan Bangsa-Bangsa memutuskan untuk mengadakan embargo ke Irak? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah pemimpin dari Bosnia? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Kapankah hukuman mati terhapus di Perancis? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah presiden dari Republik Perancis? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapa lamakah Kim Il Sung berkuasa di Korea Utara? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapa banyak populasi di Moscow? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Apa nama putra dari Kim Il Sung? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapakah skor pertandingan antara Italia Norwegia pada piala dunia sepakbola? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Kapankah Republik Afrika Selatan didirikan? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah presiden Yugoslavia? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah yang mengadopsi konstitusi baru di Afrika? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah pendiri dari the Order of the Solar Temple? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Pada umur berapakah Joseph di Mambro meninggal? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapakah jarak antara bumi dan matahari? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapakah populasi dunia? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Pada tahun berapakah Spanyol masuk ke European Community? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah presiden dari Parlemen Eropa? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Apakah kepanjangan dari GATT? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapakah panjang dari tembok Berlin? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Apakah nama dari valuta Cina? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah presiden Rusia? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah presiden Korea Utara? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapakah populasi Asia? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapa banyak negara anggota Uni Eropa? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Dari apakah ekstrak methane? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Dimanakah bom atom pertama meledak? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Apakah ibu kota dari Rusia? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Di negara bagian manakah San Fransisco? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Di kota manakah Menara Eiffel? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Dimanakah Vatican? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Di laut manakah Titanic tenggelam? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Dimanakah Adolf Hitler lahir? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah menteri ekonomi Jerman? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapakah panjang dari Eurotunnel? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapa banyak planet di tata surya? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapakah suhu dari permukaan matahari? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah orang pertama yang mendarat di bulan? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Berapakah jumlah pegawai Air France? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah istri dari John Lennon? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Di kota manakah stadion Delle Alpi? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Ada berapa banyakkah jenis hiu? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Apakah ibukota dari Turkmenistan? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah yang memenangkan Tour de France? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah saudara laki-laki dari Mika Kaurismäki? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Tahun berapakah Ayrton Senna meninggal? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Pada tahun berapakah dana moneter internasional didirikan? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Pada tahun berapakah bank dunia didirikan? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Kapankah Austria bergabung dengan Schengen? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Kapankah bom atom pertama meledak? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Siapakah presiden Peru? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Kapankah embargo ke Irak dimulai? *** : Wed Jun 04 23:45:48 ICT 2014
+
+*** Reading Question : Apakah ibukota Korea Utara? *** : Wed Jun 04 23:45:48 ICT 2014
+*** System starts *** : Wed Jun 04 23:49:47 ICT 2014
+*** Finish Initializing *** : Wed Jun 04 23:49:47 ICT 2014
+*** Time spent : 23 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Wed Jun 04 23:49:47 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Wed Jun 04 23:49:47 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Wed Jun 04 23:49:47 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Wed Jun 04 23:49:47 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Wed Jun 04 23:49:47 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Wed Jun 04 23:49:47 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Wed Jun 04 23:49:47 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Wed Jun 04 23:49:47 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Wed Jun 04 23:49:47 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Wed Jun 04 23:49:47 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Wed Jun 04 23:49:47 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Wed Jun 04 23:49:47 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Wed Jun 04 23:49:47 ICT 2014
+*** System starts *** : Wed Jun 04 23:50:35 ICT 2014
+*** Finish Initializing *** : Wed Jun 04 23:50:35 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Wed Jun 04 23:50:35 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Wed Jun 04 23:50:35 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Wed Jun 04 23:50:35 ICT 2014
+*** System starts *** : Wed Jun 04 23:51:20 ICT 2014
+*** System starts *** : Wed Jun 04 23:51:37 ICT 2014
+*** Finish Initializing *** : Wed Jun 04 23:51:37 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Wed Jun 04 23:51:37 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Wed Jun 04 23:51:37 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Wed Jun 04 23:51:37 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Wed Jun 04 23:51:37 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Wed Jun 04 23:51:37 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Wed Jun 04 23:51:37 ICT 2014
+*** System starts *** : Wed Jun 04 23:53:21 ICT 2014
+*** Finish Initializing *** : Wed Jun 04 23:53:21 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Wed Jun 04 23:53:21 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Wed Jun 04 23:53:21 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Wed Jun 04 23:53:21 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Wed Jun 04 23:53:21 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Wed Jun 04 23:53:21 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Wed Jun 04 23:53:21 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Wed Jun 04 23:53:21 ICT 2014
+*** System starts *** : Wed Jun 04 23:54:11 ICT 2014
+*** Finish Initializing *** : Wed Jun 04 23:54:11 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Wed Jun 04 23:54:11 ICT 2014
+*** System starts *** : Wed Jun 04 23:54:59 ICT 2014
+*** Finish Initializing *** : Wed Jun 04 23:54:59 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Wed Jun 04 23:54:59 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Wed Jun 04 23:54:59 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Wed Jun 04 23:54:59 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Wed Jun 04 23:54:59 ICT 2014
+*** System starts *** : Wed Jun 04 23:56:20 ICT 2014
+*** Finish Initializing *** : Wed Jun 04 23:56:20 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Apakah nama Perdana Menteri Belanda? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Berapa banyak penduduk yahudi yang dimiliki Israel? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Berapa penduduk yang dimiliki Irak? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Berapa banyak negara anggota Perserikatan Bangsa-Bangsa? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Kapankah Perserikatan Bangsa-Bangsa memutuskan untuk mengadakan embargo ke Irak? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Siapakah pemimpin dari Bosnia? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Kapankah hukuman mati terhapus di Perancis? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Siapakah presiden dari Republik Perancis? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Berapa lamakah Kim Il Sung berkuasa di Korea Utara? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Berapa banyak populasi di Moscow? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Apa nama putra dari Kim Il Sung? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Berapakah skor pertandingan antara Italia Norwegia pada piala dunia sepakbola? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Kapankah Republik Afrika Selatan didirikan? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Siapakah presiden Yugoslavia? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Siapakah yang mengadopsi konstitusi baru di Afrika? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Siapakah pendiri dari the Order of the Solar Temple? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Pada umur berapakah Joseph di Mambro meninggal? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Berapakah jarak antara bumi dan matahari? *** : Wed Jun 04 23:56:20 ICT 2014
+
+*** Reading Question : Berapakah populasi dunia? *** : Wed Jun 04 23:56:20 ICT 2014
+*** System starts *** : Wed Jun 04 23:58:45 ICT 2014
+*** Finish Initializing *** : Wed Jun 04 23:58:45 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Wed Jun 04 23:58:45 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Wed Jun 04 23:58:45 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Wed Jun 04 23:58:45 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Wed Jun 04 23:58:45 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Wed Jun 04 23:58:45 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Wed Jun 04 23:58:45 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Wed Jun 04 23:58:45 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Wed Jun 04 23:58:45 ICT 2014
+*** System starts *** : Wed Jun 04 23:59:47 ICT 2014
+*** Finish Initializing *** : Wed Jun 04 23:59:47 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Wed Jun 04 23:59:47 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Wed Jun 04 23:59:47 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Wed Jun 04 23:59:47 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Wed Jun 04 23:59:47 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Wed Jun 04 23:59:47 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Wed Jun 04 23:59:47 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Wed Jun 04 23:59:47 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Wed Jun 04 23:59:47 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Wed Jun 04 23:59:47 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Wed Jun 04 23:59:47 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Wed Jun 04 23:59:47 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Wed Jun 04 23:59:47 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Wed Jun 04 23:59:47 ICT 2014
+*** System starts *** : Thu Jun 05 00:00:39 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:00:39 ICT 2014
+*** Time spent : 5 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Apakah nama Perdana Menteri Belanda? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Berapa banyak penduduk yahudi yang dimiliki Israel? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Berapa penduduk yang dimiliki Irak? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Berapa banyak negara anggota Perserikatan Bangsa-Bangsa? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Kapankah Perserikatan Bangsa-Bangsa memutuskan untuk mengadakan embargo ke Irak? *** : Thu Jun 05 00:00:39 ICT 2014
+
+*** Reading Question : Siapakah pemimpin dari Bosnia? *** : Thu Jun 05 00:00:39 ICT 2014
+*** System starts *** : Thu Jun 05 00:02:38 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:02:38 ICT 2014
+*** Time spent : 5 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:02:38 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:02:38 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:02:38 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:02:38 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:02:38 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:02:38 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:02:38 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Thu Jun 05 00:02:38 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Thu Jun 05 00:02:38 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Thu Jun 05 00:02:38 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Thu Jun 05 00:02:38 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Thu Jun 05 00:02:38 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Thu Jun 05 00:02:38 ICT 2014
+
+*** Reading Question : Apakah nama Perdana Menteri Belanda? *** : Thu Jun 05 00:02:38 ICT 2014
+
+*** Reading Question : Berapa banyak penduduk yahudi yang dimiliki Israel? *** : Thu Jun 05 00:02:38 ICT 2014
+*** System starts *** : Thu Jun 05 00:04:09 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:04:09 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Apakah nama Perdana Menteri Belanda? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Berapa banyak penduduk yahudi yang dimiliki Israel? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Berapa penduduk yang dimiliki Irak? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Berapa banyak negara anggota Perserikatan Bangsa-Bangsa? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Kapankah Perserikatan Bangsa-Bangsa memutuskan untuk mengadakan embargo ke Irak? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Siapakah pemimpin dari Bosnia? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Kapankah hukuman mati terhapus di Perancis? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Siapakah presiden dari Republik Perancis? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Berapa lamakah Kim Il Sung berkuasa di Korea Utara? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Berapa banyak populasi di Moscow? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Apa nama putra dari Kim Il Sung? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Berapakah skor pertandingan antara Italia Norwegia pada piala dunia sepakbola? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Kapankah Republik Afrika Selatan didirikan? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Siapakah presiden Yugoslavia? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Siapakah yang mengadopsi konstitusi baru di Afrika? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Siapakah pendiri dari the Order of the Solar Temple? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Pada umur berapakah Joseph di Mambro meninggal? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Berapakah jarak antara bumi dan matahari? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Berapakah populasi dunia? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Pada tahun berapakah Spanyol masuk ke European Community? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Siapakah presiden dari Parlemen Eropa? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Apakah kepanjangan dari GATT? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Berapakah panjang dari tembok Berlin? *** : Thu Jun 05 00:04:09 ICT 2014
+
+*** Reading Question : Apakah nama dari valuta Cina? *** : Thu Jun 05 00:04:09 ICT 2014
+*** System starts *** : Thu Jun 05 00:08:14 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:08:14 ICT 2014
+*** Time spent : 10 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:08:14 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:08:14 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:08:14 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:08:14 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:08:14 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:08:14 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:08:14 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Thu Jun 05 00:08:14 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Thu Jun 05 00:08:14 ICT 2014
+*** System starts *** : Thu Jun 05 00:13:30 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:13:30 ICT 2014
+*** Time spent : 5 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:13:30 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:13:30 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:13:30 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:13:30 ICT 2014
+*** System starts *** : Thu Jun 05 00:19:54 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:19:54 ICT 2014
+*** Time spent : 6 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:19:54 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:19:54 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:19:54 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:19:54 ICT 2014
+*** System starts *** : Thu Jun 05 00:20:36 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:20:36 ICT 2014
+*** Time spent : 6 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:20:36 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:20:36 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:20:36 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:20:36 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:20:36 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:20:36 ICT 2014
+*** System starts *** : Thu Jun 05 00:22:31 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:22:31 ICT 2014
+*** Time spent : 5 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:22:31 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:22:31 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:22:31 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:22:31 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:22:31 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:22:31 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:22:31 ICT 2014
+*** System starts *** : Thu Jun 05 00:26:00 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:26:00 ICT 2014
+*** Time spent : 5 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Apakah nama Perdana Menteri Belanda? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Berapa banyak penduduk yahudi yang dimiliki Israel? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Berapa penduduk yang dimiliki Irak? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Berapa banyak negara anggota Perserikatan Bangsa-Bangsa? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Kapankah Perserikatan Bangsa-Bangsa memutuskan untuk mengadakan embargo ke Irak? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Siapakah pemimpin dari Bosnia? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Kapankah hukuman mati terhapus di Perancis? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Siapakah presiden dari Republik Perancis? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Berapa lamakah Kim Il Sung berkuasa di Korea Utara? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Berapa banyak populasi di Moscow? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Apa nama putra dari Kim Il Sung? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Berapakah skor pertandingan antara Italia Norwegia pada piala dunia sepakbola? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Kapankah Republik Afrika Selatan didirikan? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Siapakah presiden Yugoslavia? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Siapakah yang mengadopsi konstitusi baru di Afrika? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Siapakah pendiri dari the Order of the Solar Temple? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Pada umur berapakah Joseph di Mambro meninggal? *** : Thu Jun 05 00:26:00 ICT 2014
+
+*** Reading Question : Berapakah jarak antara bumi dan matahari? *** : Thu Jun 05 00:26:00 ICT 2014
+*** System starts *** : Thu Jun 05 00:26:36 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:26:36 ICT 2014
+*** Time spent : 5 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:26:36 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:26:36 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:26:36 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:26:36 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:26:36 ICT 2014
+*** System starts *** : Thu Jun 05 00:27:35 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:27:35 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:27:35 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:27:35 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:27:35 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:27:35 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:27:35 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:27:35 ICT 2014
+*** System starts *** : Thu Jun 05 00:30:45 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:30:45 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:30:45 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:30:45 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:30:45 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:30:45 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:30:45 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:30:45 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:30:45 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Thu Jun 05 00:30:45 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Thu Jun 05 00:30:45 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Thu Jun 05 00:30:45 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Thu Jun 05 00:30:45 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Thu Jun 05 00:30:45 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Thu Jun 05 00:30:45 ICT 2014
+
+*** Reading Question : Apakah nama Perdana Menteri Belanda? *** : Thu Jun 05 00:30:45 ICT 2014
+
+*** Reading Question : Berapa banyak penduduk yahudi yang dimiliki Israel? *** : Thu Jun 05 00:30:45 ICT 2014
+*** System starts *** : Thu Jun 05 00:31:15 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:31:15 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:31:15 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:31:15 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:31:15 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:31:15 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:31:15 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:31:15 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:31:15 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Thu Jun 05 00:31:15 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Thu Jun 05 00:31:15 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Thu Jun 05 00:31:15 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Thu Jun 05 00:31:15 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Thu Jun 05 00:31:15 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Thu Jun 05 00:31:15 ICT 2014
+
+*** Reading Question : Apakah nama Perdana Menteri Belanda? *** : Thu Jun 05 00:31:15 ICT 2014
+
+*** Reading Question : Berapa banyak penduduk yahudi yang dimiliki Israel? *** : Thu Jun 05 00:31:15 ICT 2014
+*** System starts *** : Thu Jun 05 00:32:37 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:32:37 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:32:37 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:32:37 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:32:37 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:32:37 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:32:37 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:32:37 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:32:37 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Thu Jun 05 00:32:37 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Thu Jun 05 00:32:37 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Thu Jun 05 00:32:37 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Thu Jun 05 00:32:37 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Thu Jun 05 00:32:37 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Thu Jun 05 00:32:37 ICT 2014
+*** System starts *** : Thu Jun 05 00:34:21 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:34:21 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:34:21 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:34:21 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:34:21 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:34:21 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:34:21 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:34:21 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:34:21 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Thu Jun 05 00:34:21 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Thu Jun 05 00:34:21 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Thu Jun 05 00:34:21 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Thu Jun 05 00:34:21 ICT 2014
+*** System starts *** : Thu Jun 05 00:36:22 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:36:22 ICT 2014
+*** Time spent : 5 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:36:22 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:36:22 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:36:22 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:36:22 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:36:22 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:36:22 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:36:22 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Thu Jun 05 00:36:22 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Thu Jun 05 00:36:22 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Thu Jun 05 00:36:22 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Thu Jun 05 00:36:22 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Thu Jun 05 00:36:22 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Thu Jun 05 00:36:22 ICT 2014
+*** System starts *** : Thu Jun 05 00:37:26 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:37:26 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Apakah nama Perdana Menteri Belanda? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Berapa banyak penduduk yahudi yang dimiliki Israel? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Berapa penduduk yang dimiliki Irak? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Berapa banyak negara anggota Perserikatan Bangsa-Bangsa? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Kapankah Perserikatan Bangsa-Bangsa memutuskan untuk mengadakan embargo ke Irak? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Siapakah pemimpin dari Bosnia? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Kapankah hukuman mati terhapus di Perancis? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Siapakah presiden dari Republik Perancis? *** : Thu Jun 05 00:37:26 ICT 2014
+
+*** Reading Question : Berapa lamakah Kim Il Sung berkuasa di Korea Utara? *** : Thu Jun 05 00:37:26 ICT 2014
+*** System starts *** : Thu Jun 05 00:39:30 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:39:30 ICT 2014
+*** Time spent : 5 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:39:30 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:39:30 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:39:30 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:39:30 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:39:30 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:39:30 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:39:30 ICT 2014
+*** System starts *** : Thu Jun 05 00:41:24 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:41:24 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:41:24 ICT 2014
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:41:24 ICT 2014
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:41:24 ICT 2014
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:41:24 ICT 2014
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:41:24 ICT 2014
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:41:24 ICT 2014
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:41:24 ICT 2014
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Thu Jun 05 00:41:24 ICT 2014
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Thu Jun 05 00:41:24 ICT 2014
+
+*** Reading Question : Kapankah EEC didirikan? *** : Thu Jun 05 00:41:24 ICT 2014
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Thu Jun 05 00:41:24 ICT 2014
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Thu Jun 05 00:41:24 ICT 2014
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Thu Jun 05 00:41:24 ICT 2014
+
+*** Reading Question : Apakah nama Perdana Menteri Belanda? *** : Thu Jun 05 00:41:24 ICT 2014
+*** System starts *** : Thu Jun 05 00:49:13 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:49:13 ICT 2014
+*** Time spent : 5 seconds ***
+
+*** Reading Question : SIapakah Rahmat? *** : Thu Jun 05 00:49:13 ICT 2014
+*** System starts *** : Thu Jun 05 00:50:06 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:50:06 ICT 2014
+*** Time spent : 5 seconds ***
+
+*** Reading Question : ﻿Siapakah Antonio? *** : Thu Jun 05 00:50:06 ICT 2014
+*** System starts *** : Thu Jun 05 00:50:37 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:50:37 ICT 2014
+*** Time spent : 20 seconds ***
+
+*** Reading Question : ﻿Siapakah Antonio? *** : Thu Jun 05 00:50:37 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:50:37 ICT 2014
+*** Time spent : 17 seconds ***
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:50:37 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:50:37 ICT 2014
+*** Time spent : 10 seconds ***
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:50:37 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:50:37 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:50:37 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:50:37 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:50:37 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:50:37 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:50:37 ICT 2014
+*** System starts *** : Thu Jun 05 00:52:51 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 22 seconds ***
+
+*** Reading Question : ﻿Siapakah Antonio? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : Kapan persatuan Jerman Timur dan Jerman Barat dilakukan? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah presiden dari FIAT? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah yang mengadakan embargo ke Irak? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Di negara manakah Bosnia berada? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Siapakah yang membangun tembok Berlin? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah presiden Republik Italia? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah presiden Amerika Serikat? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Apakah ibukota Republik Afrika Selatan? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Kapankah EEC didirikan? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Berapakah jumlah penduduk Swedia? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Berapa banyak orang di Berlin? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Berapa harga pil ecstasy di Belanda? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Apakah nama Perdana Menteri Belanda? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapa banyak penduduk yahudi yang dimiliki Israel? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapa penduduk yang dimiliki Irak? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapa banyak negara anggota Perserikatan Bangsa-Bangsa? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Kapankah Perserikatan Bangsa-Bangsa memutuskan untuk mengadakan embargo ke Irak? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Siapakah pemimpin dari Bosnia? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+[1]	President of the Independent Association of Trade Unions
+	Score: 1.1949207
+	Document: GH950720-000055
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Kapankah hukuman mati terhapus di Perancis? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Siapakah presiden dari Republik Perancis? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapa lamakah Kim Il Sung berkuasa di Korea Utara? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapa banyak populasi di Moscow? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Apa nama putra dari Kim Il Sung? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapakah skor pertandingan antara Italia Norwegia pada piala dunia sepakbola? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Kapankah Republik Afrika Selatan didirikan? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Siapakah presiden Yugoslavia? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Siapakah yang mengadopsi konstitusi baru di Afrika? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah pendiri dari the Order of the Solar Temple? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Pada umur berapakah Joseph di Mambro meninggal? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapakah jarak antara bumi dan matahari? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapakah populasi dunia? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Pada tahun berapakah Spanyol masuk ke European Community? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah presiden dari Parlemen Eropa? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Apakah kepanjangan dari GATT? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapakah panjang dari tembok Berlin? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Apakah nama dari valuta Cina? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah presiden Rusia? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+[1]	The Richard Nixon Presidential Library and Birthplace
+	Score: 1.6328403
+	Document: LA042194-0185
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah presiden Korea Utara? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+[1]	Because the New York Stock Exchange
+	Score: 1.6134969
+	Document: LA033194-0246
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapakah populasi Asia? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Berapa banyak negara anggota Uni Eropa? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Dari apakah ekstrak methane? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Dimanakah bom atom pertama meledak? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Apakah ibu kota dari Rusia? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+[1]	Moscow
+	Score: 0.38750857
+	Document: LA092494-0106
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Di negara bagian manakah San Fransisco? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Di kota manakah Menara Eiffel? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Dimanakah Vatican? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+[1]	LA
+	Score: 0.47537044
+	Document: LA010194-0104
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 39 seconds ***
+
+*** Reading Question : Di laut manakah Titanic tenggelam? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Dimanakah Adolf Hitler lahir? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah menteri ekonomi Jerman? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapakah panjang dari Eurotunnel? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapa banyak planet di tata surya? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Berapakah suhu dari permukaan matahari? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah orang pertama yang mendarat di bulan? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+[1]	Lord President of the Court of Session
+	Score: 1.1254487
+	Document: GH951016-000019
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Berapakah jumlah pegawai Air France? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah istri dari John Lennon? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Di kota manakah stadion Delle Alpi? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Ada berapa banyakkah jenis hiu? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Apakah ibukota dari Turkmenistan? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah yang memenangkan Tour de France? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah saudara laki-laki dari Mika Kaurismäki? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 2 seconds ***
+
+*** Reading Question : Tahun berapakah Ayrton Senna meninggal? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Pada tahun berapakah dana moneter internasional didirikan? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Pada tahun berapakah bank dunia didirikan? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Kapankah Austria bergabung dengan Schengen? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Kapankah bom atom pertama meledak? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Siapakah presiden Peru? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Kapankah embargo ke Irak dimulai? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Apakah ibukota Korea Utara? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : Apakah ibukota Irlandia? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : Dimanakah Euskirchen? *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+[1]	Bonn
+	Score: 0.11715864
+	Document: LA031094-0206
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+
+*** Reading Question : exit *** : Thu Jun 05 00:52:51 ICT 2014
+ --                  Answer:                  --
+[1]	Bonn
+	Score: 0.11715864
+	Document: LA031094-0206
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 00:52:51 ICT 2014
+*** Time spent : 0 seconds ***
+*** System starts *** : Thu Jun 05 01:42:35 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 01:42:35 ICT 2014
+*** Time spent : 28 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:42:35 ICT 2014
+*** Time spent : 21 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:42:35 ICT 2014
+*** Time spent : 2 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:42:35 ICT 2014
+*** Time spent : 1 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:42:35 ICT 2014
+*** Time spent : 1 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:42:35 ICT 2014
+*** Time spent : 0 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:42:35 ICT 2014
+*** Time spent : 1 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:42:35 ICT 2014
+*** Time spent : 1 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:42:35 ICT 2014
+*** Time spent : 1 seconds ***
+*** System starts *** : Thu Jun 05 01:52:46 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 01:52:46 ICT 2014
+*** Time spent : 25 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:52:46 ICT 2014
+*** Time spent : 3 seconds ***
+ --                  Answer:                  --
+[1]	Sunday, April 21, 1918
+	Score: 1.9832276
+	Document: LA112794-0047
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:52:46 ICT 2014
+*** Time spent : 14 seconds ***
+*** System starts *** : Thu Jun 05 01:56:34 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 01:56:34 ICT 2014
+*** Time spent : 22 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:56:34 ICT 2014
+*** Time spent : 7 seconds ***
+ --                  Answer:                  --
+[1]	Sunday, April 21, 1918
+	Score: 1.9832276
+	Document: LA112794-0047
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:56:34 ICT 2014
+*** Time spent : 7 seconds ***
+ --                  Answer:                  --
+[1]	Israeli Prime Minister Yitzhak Rabin and Palestine Liberation Organization Chairman Yasser Arafat
+	Score: 0.004495289
+	Document: LA010494-0267
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:56:34 ICT 2014
+*** Time spent : 1313 seconds ***
+ --                  Answer:                  --
+[1]	Israeli Prime Minister Yitzhak Rabin and Palestine Liberation Organization Chairman Yasser Arafat
+	Score: 0.004718036
+	Document: LA010494-0267
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:56:34 ICT 2014
+*** Time spent : 240 seconds ***
+ --                  Answer:                  --
+[1]	United States of America
+	Score: 1.5334743
+	Document: LA030394-0288
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:56:34 ICT 2014
+*** Time spent : 7 seconds ***
+ --                  Answer:                  --
+[1]	Answers Identifying Possible Causes of the Northridge Meadows Collapse Before the Northridge Meadows Apartments
+	Score: 0.0042784926
+	Document: LA061194-0135
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 01:56:34 ICT 2014
+*** Time spent : 988 seconds ***
+*** System starts *** : Thu Jun 05 03:03:17 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 03:03:17 ICT 2014
+*** Time spent : 24 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 03:03:17 ICT 2014
+*** Time spent : 9 seconds ***
+ --                  Answer:                  --
+[1]	1990
+	Score: 220.0
+	Document: LA101894-0133
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 03:03:17 ICT 2014
+*** Time spent : 13 seconds ***
+*** System starts *** : Thu Jun 05 03:09:07 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 03:09:07 ICT 2014
+*** Time spent : 25 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 03:09:07 ICT 2014
+*** Time spent : 3 seconds ***
+*** System starts *** : Thu Jun 05 03:09:48 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 03:09:48 ICT 2014
+*** Time spent : 24 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 03:09:48 ICT 2014
+*** Time spent : 3 seconds ***
+ --                  Answer:                  --
+[1]	1990
+	Score: 220.0
+	Document: LA101894-0133
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 03:09:48 ICT 2014
+*** Time spent : 7 seconds ***
+ --                  Answer:                  --
+[1]	Clinton
+	Score: 5421.0
+	Document: LA071294-0250
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 03:09:48 ICT 2014
+*** Time spent : 646 seconds ***
+ --                  Answer:                  --
+[1]	U
+	Score: 2027.0
+	Document: LA041094-0112
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 03:09:48 ICT 2014
+*** Time spent : 138 seconds ***
+ --                  Answer:                  --
+[1]	U.S.
+	Score: 773.0
+	Document: LA022794-0340
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 03:09:48 ICT 2014
+*** Time spent : 3 seconds ***
+ --                  Answer:                  --
+[1]	The
+	Score: 2311.0
+	Document: LA022794-0113
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 03:09:48 ICT 2014
+*** Time spent : 455 seconds ***
+*** System starts *** : Thu Jun 05 03:35:37 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 03:35:37 ICT 2014
+*** Time spent : 31 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 03:35:37 ICT 2014
+*** Time spent : 3 seconds ***
+ --                  Answer:                  --
+[1]	1990
+	Score: 220.0
+	Document: LA101894-0133
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 03:35:37 ICT 2014
+*** Time spent : 10 seconds ***
+*** System starts *** : Thu Jun 05 03:38:05 ICT 2014
+*** Finish Initializing *** : Thu Jun 05 03:38:05 ICT 2014
+*** Time spent : 39 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 03:38:05 ICT 2014
+*** Time spent : 4 seconds ***
+ --                  Answer:                  --
+[1]	1990
+	Score: 220.0
+	Document: LA101894-0133
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 05 03:38:05 ICT 2014
+*** Time spent : 8 seconds ***

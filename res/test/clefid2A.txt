@@ -1,0 +1,15 @@
+Answers:
+*** System starts *** : Thu Jun 26 19:44:52 ICT 2014
+*** Finish Initializing *** : Thu Jun 26 19:44:52 ICT 2014
+*** Time spent : 26 seconds ***
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 26 19:44:52 ICT 2014
+*** Time spent : 10 seconds ***
+ --                  Answer:                  --
+[1]	1990
+	Score: 134.0
+	Document: LA101894-0133
+ --               end of answer               --
+*** Finish Answering A Question *** : Thu Jun 26 19:44:52 ICT 2014
+*** Time spent : 6 seconds ***

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns="http://java.sun.com/xml/ns/jax-rpc/ri/config">
+	<wsdl location="file:E:\Other\Github\SemogaSukses\src\META-INF\wsdl/EnId_bilingualdictionary.wsdl" packageName="dictionary"/>
+</configuration>

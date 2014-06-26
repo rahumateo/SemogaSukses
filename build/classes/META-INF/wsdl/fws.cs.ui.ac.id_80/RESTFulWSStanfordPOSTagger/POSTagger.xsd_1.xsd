@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is JAX-WS RI 2.2-hudson-740-. --><xs:schema xmlns:tns="http://postagger.ir.cs/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://postagger.ir.cs/">
+
+<xs:element name="Exception" type="tns:Exception" />
+
+<xs:element name="IOException" type="tns:IOException" />
+
+<xs:element name="getPOSTag" type="tns:getPOSTag" />
+
+<xs:element name="getPOSTagResponse" type="tns:getPOSTagResponse" />
+
+<xs:complexType name="getPOSTag">
+<xs:sequence>
+<xs:element name="sentence" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getPOSTagResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="IOException">
+<xs:sequence>
+<xs:element name="message" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="Exception">
+<xs:sequence>
+<xs:element name="message" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+</xs:schema>

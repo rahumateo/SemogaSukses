@@ -1,0 +1,633 @@
+Answers:
+*** System starts *** : Mon Jun 02 14:24:30 ICT 2014
+*** Finish Initializing *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 33 seconds ***
+
+*** Reading Question : When did the reunification of East Germany and West Germany take place? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	June 11, 1990
+	Score: 1.803747
+	Document: LA062394-0221
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 120 seconds ***
+
+*** Reading Question : Who is the president of FIAT? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Alfa Romeo
+	Score: 0.43872604
+	Document: LA053194-0110
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 391 seconds ***
+
+*** Reading Question : Who imposed the embargo on Iraq? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Clinton
+	Score: 0.09643944
+	Document: LA082494-0214
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 77 seconds ***
+
+*** Reading Question : In which country is Bosnia located? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Croatia
+	Score: 1.2474742
+	Document: LA022794-0340
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 202 seconds ***
+
+*** Reading Question : Who built the Berlin Wall? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Clinton
+	Score: 1.3159939
+	Document: LA071394-0252
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 367 seconds ***
+
+*** Reading Question : Who is the president of the Republic of Italy? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Mr Dick Spring
+	Score: 0.69153786
+	Document: GH951003-000191
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 440 seconds ***
+
+*** Reading Question : Who is the president of the United States? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Warren Christopher
+	Score: 1.0542539
+	Document: LA052894-0144
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 629 seconds ***
+
+*** Reading Question : What is the capital of the Republic of South Africa? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	provide
+	Score: 0.3987886
+	Document: LA060394-0239
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 74 seconds ***
+
+*** Reading Question : When was the EEC founded? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	April 21, 1992
+	Score: 0.436736
+	Document: LA010294-0234
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 5 seconds ***
+
+*** Reading Question : How many inhabitants does Sweden have? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	1914, 1918, 1935, 1940, 1941, 1942
+	Score: 0.0026836093
+	Document: LA100294-0024
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 43 seconds ***
+
+*** Reading Question : How many inhabitants are there in Berlin? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	100,000
+	Score: 8.1056795
+	Document: LA120494-0318
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 215 seconds ***
+
+*** Reading Question : How much does a pill of extasy cost in Holland? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 141 seconds ***
+
+*** Reading Question : What is the name of the Dutch Prime Minister? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Mr Blair
+	Score: 2.2575579
+	Document: GH950620-000121
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 514 seconds ***
+
+*** Reading Question : How many Jewish inhabitants does Israel have? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	1984, 20,000
+	Score: 6.9376626
+	Document: LA030694-0035
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 178 seconds ***
+
+*** Reading Question : How many inhabitants does Iraq have? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	20,000,000
+	Score: 5.209205
+	Document: GH950506-000110
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 18 seconds ***
+
+*** Reading Question : How many member countries are there in the United Nations? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	4,522,736,000,000
+	Score: 11.802688
+	Document: LA020794-0190
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 165 seconds ***
+
+*** Reading Question : When did the United Nations decide to impose the embargo on Iraq? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	1991
+	Score: 0.4351338
+	Document: LA100894-0025
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 7 seconds ***
+
+*** Reading Question : Who is the leader of Bosnia? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Clinton
+	Score: 1.6654704
+	Document: LA121194-0297
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 282 seconds ***
+
+*** Reading Question : When was the death penalty abolished in France? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	July 29, 1992
+	Score: 1.0865453
+	Document: LA040894-0255
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 84 seconds ***
+
+*** Reading Question : Who is the president of the French Republic? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Mr Dick Spring
+	Score: 0.97398597
+	Document: GH950203-000028
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 380 seconds ***
+
+*** Reading Question : How long has Kim Il Sung been in power in North Korea? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	60 years
+	Score: 2.4037187
+	Document: LA041094-0286
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 5 seconds ***
+
+*** Reading Question : How many inhabitants are there in Moscow? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	1993, 15,000
+	Score: 5.508821
+	Document: LA062194-0310
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 31 seconds ***
+
+*** Reading Question : What is the name of Kim Il Sung's son? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	John
+	Score: 1.0089036
+	Document: LA021994-0388
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 454 seconds ***
+
+*** Reading Question : What is the score of the Italy-Norway match at the football World Cup? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	1966, 67, 68, 69, 70, 71, 72, 73, 74, 77
+	Score: 0.17635772
+	Document: GH950308-000039
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 138 seconds ***
+
+*** Reading Question : When was the Republic of South Africa founded? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Wednesday March 22, 1995
+	Score: 1.7687608
+	Document: GH950316-000058
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 6 seconds ***
+
+*** Reading Question : Who is the Yugoslavian president? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Bill Clinton
+	Score: 1.6541972
+	Document: GH951006-000205
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 143 seconds ***
+
+*** Reading Question : Who adopted a new constitution in Africa? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Mandela
+	Score: 0.5454004
+	Document: GH950403-000143
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 90 seconds ***
+
+*** Reading Question : Who is the founder of the Order of the Solar Temple? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	John
+	Score: 1.6121608
+	Document: LA101794-0034
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 338 seconds ***
+
+*** Reading Question : How old was Joseph di Mambro when he died? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	72, 15 years
+	Score: 3.0931613
+	Document: LA011494-0248
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 79 seconds ***
+
+*** Reading Question : What is the distance between the Earth and the sun? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	1,442,044 miles
+	Score: 3.9778357
+	Document: LA030194-0298
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 98 seconds ***
+
+*** Reading Question : What is the world population? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	12,06,06,06,06,06
+	Score: 4.902244
+	Document: LA092194-0175
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 108 seconds ***
+
+*** Reading Question : In which year did Spain enter the European Community? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	1992
+	Score: 0.4351338
+	Document: LA051794-0206
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 7 seconds ***
+
+*** Reading Question : Who is the president of the European Parliament? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Mr Major
+	Score: 2.1970599
+	Document: GH950614-000139
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 244 seconds ***
+
+*** Reading Question : What does GATT stand for? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	World Trade Organization
+	Score: 1.4068493
+	Document: LA112394-0134
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 207 seconds ***
+
+*** Reading Question : How long was the Berlin Wall? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	20 years
+	Score: 1.8889685
+	Document: LA022794-0113
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 137 seconds ***
+
+*** Reading Question : What is the name of the Chinese currency? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Clinton
+	Score: 0.4194278
+	Document: LA050994-0179
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 181 seconds ***
+
+*** Reading Question : Who is the president of Rusia? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Clinton
+	Score: 6.011375E-4
+	Document: LA021394-0169
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 156 seconds ***
+
+*** Reading Question : Who is the president of North Korea? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Kim Il Sung
+	Score: 1.4234861
+	Document: LA070894-0038
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 318 seconds ***
+
+*** Reading Question : What is the population of Asia? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	20,06,08,07,08,07,07,17
+	Score: 19.513855
+	Document: LA103194-0199
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 197 seconds ***
+
+*** Reading Question : How many member countries of the European Union are there? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	1914, 1918, 1935, 1940, 1941, 1942
+	Score: 1.0790352
+	Document: LA100294-0024
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 122 seconds ***
+
+*** Reading Question : Where is methane extracted from? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	LA
+	Score: 0.34797388
+	Document: LA022494-0167
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 63 seconds ***
+
+*** Reading Question : Where did the first atomic bomb explode? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	North Korea
+	Score: 0.55417323
+	Document: LA122294-0261
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 55 seconds ***
+
+*** Reading Question : What is the capital of Russia? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Moscow
+	Score: 0.78130865
+	Document: LA102594-0048
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 412 seconds ***
+
+*** Reading Question : In which American state is San Francisco? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	California
+	Score: 6.250713E-4
+	Document: LA042294-0231
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 4 seconds ***
+
+*** Reading Question : In which European city is the Eiffel Tower? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Europe
+	Score: 6.018334E-4
+	Document: GH950506-000107
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 84 seconds ***
+
+*** Reading Question : Where is Vatican City? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Israel
+	Score: 0.6566253
+	Document: GH950417-000083
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 178 seconds ***
+
+*** Reading Question : In which ocean did the Titanic sink? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Arctic Oceans
+	Score: 0.14043185
+	Document: GH950421-000183
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 3 seconds ***
+
+*** Reading Question : Where was Adolf Hitler born? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Germany
+	Score: 1.1885804
+	Document: GH950429-000086
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 126 seconds ***
+
+*** Reading Question : Who is the German economy minister? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Mr Clarke
+	Score: 1.7016404
+	Document: GH950206-000053
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 321 seconds ***
+
+*** Reading Question : How long is the Eurotunnel? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	10, 15, 20 minutes
+	Score: 2.013663
+	Document: LA112394-0240
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 69 seconds ***
+
+*** Reading Question : How many planets are there in the Solar System? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	12,10,05,05,05,05,05,05,05,05,05,05,06
+	Score: 4.3286004
+	Document: LA081294-0140
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 58 seconds ***
+
+*** Reading Question : What temperature is the surface of the Sun? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	130 Kelvin
+	Score: 0.47746828
+	Document: GH951111-000004
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 5 seconds ***
+
+*** Reading Question : What is the name of the first man who landed on the Moon? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Mr Howard
+	Score: 2.1807103
+	Document: GH951103-000193
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 299 seconds ***
+
+*** Reading Question : How many employees does Air France have? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	1944, 37,000
+	Score: 2.7426345
+	Document: LA051694-0146
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 80 seconds ***
+
+*** Reading Question : Who is John Lennon's wife? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Mr Ashby
+	Score: 4.216179
+	Document: GH951128-000125
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 530 seconds ***
+
+*** Reading Question : In which city is the Delle Alpi stadium? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	ANAHEIM
+	Score: 1.7162354
+	Document: LA073194-0181
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 129 seconds ***
+
+*** Reading Question : How many kinds of sharks are there? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	66, 71, 70, 70. 279
+	Score: 2.1209033
+	Document: GH951127-000078
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 100 seconds ***
+
+*** Reading Question : What is the capital of Turkmenistan? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	provides
+	Score: 0.41997743
+	Document: LA050894-0005
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 55 seconds ***
+
+*** Reading Question : Who won the Tour de France? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Jalabert
+	Score: 1.2118977
+	Document: GH950713-000028
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 599 seconds ***
+
+*** Reading Question : What is Mika Kaurismäki's brother's name? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Erik Menendez
+	Score: 1.2296318
+	Document: LA061494-0138
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 215 seconds ***
+
+*** Reading Question : What year did Ayrton Senna die? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	1993
+	Score: 1.1514862
+	Document: LA050294-0205
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 49 seconds ***
+
+*** Reading Question : What year was the International Monetary Fund created? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	1993
+	Score: 1.0085689
+	Document: LA042194-0332
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 77 seconds ***
+
+*** Reading Question : What year was the World Bank created? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	1992
+	Score: 0.6909207
+	Document: LA101694-0324
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 168 seconds ***
+
+*** Reading Question : How many countries was the USSR divided into? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	1993, 15,000
+	Score: 0.4348532
+	Document: LA062194-0310
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 17 seconds ***
+
+*** Reading Question : When did the first atomic bomb explode? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	October 21st, 1945
+	Score: 0.76746136
+	Document: GH950812-000164
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 6 seconds ***
+
+*** Reading Question : Who is the president of Peru? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	JAIME YZAGA
+	Score: 0.77559227
+	Document: LA090794-0034
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 373 seconds ***
+
+*** Reading Question : When did the embargo on Iraq begin? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	August 2, 1990
+	Score: 1.3306462
+	Document: GH950731-000063
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 53 seconds ***
+
+*** Reading Question : What is the capital of North Korea? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Seoul
+	Score: 1.2094657
+	Document: LA061294-0328
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 312 seconds ***
+
+*** Reading Question : What is the capital of Ireland? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Dublin
+	Score: 1.3936177
+	Document: LA090194-0255
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 341 seconds ***
+
+*** Reading Question : Where is Euskirchen? *** : Mon Jun 02 14:24:30 ICT 2014
+ --                  Answer:                  --
+[1]	Bonn
+	Score: 0.11715864
+	Document: LA031094-0206
+ --               end of answer               --
+*** Finish Answering A Question *** : Mon Jun 02 14:24:30 ICT 2014
+*** Time spent : 1 seconds ***
+
+*** Reading Question : exit *** : Mon Jun 02 14:24:30 ICT 2014

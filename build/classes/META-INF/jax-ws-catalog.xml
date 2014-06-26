@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://fws.cs.ui.ac.id/RESTFulWSStanfordPOSTagger/POSTagger?wsdl" uri="wsdl/fws.cs.ui.ac.id/RESTFulWSStanfordPOSTagger/POSTagger.wsdl"/>
+    <system systemId="http://fws.cs.ui.ac.id:80/RESTFulWSStanfordPOSTagger/POSTagger?xsd=1" uri="wsdl/fws.cs.ui.ac.id_80/RESTFulWSStanfordPOSTagger/POSTagger.xsd_1.xsd"/>
+</catalog>

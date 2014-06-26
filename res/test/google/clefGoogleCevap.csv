@@ -1,0 +1,73 @@
+Answers:
+,Answer Types, Answer, Time Spent
+,'-NEproperName->NEperson ,John,221
+,'-NEdate -NEtime ,June 11- 1990,385
+,'-NEproperName->NEperson ,Alfa Romeo,743
+,'-NEproperName->NEperson ,Clinton,824
+,'-NElocation->NEcountry ,Croatia,1042
+,'-NEproperName->NEperson ,Clinton,1297
+,'-NEproperName->NEperson ,Mr Dick Spring,1754
+,'-NEproperName->NEperson ,Warren Christopher,2409
+,'-NElocation->NEcity->NEcapital ,provide,2507
+,'-NEdate -NEtime ,April 21- 1992,2532
+,'-NEnumber ,70- 69- 71- 78. 289,2756
+,'-NEnumber -NEproperName->NEperson ,30- 45-000,2963
+,'-NEmoney ,,2972
+,'-NEproperName->NEperson ,Mr Major,3143
+,'-NEnumber ,1984- 20-000,3155
+,'-NEnumber ,20-000-000,3174
+,'-NEnumber ,16-255-000,3195
+,'-NEdate -NEtime ,August 2- 1990,3324
+,'-NEproperName->NEperson ,Clinton,3661
+,'-NEdate -NEtime ,Wednesday- August 30,3784
+,'-NEproperName->NEperson ,Mr Dick Spring,4160
+,'-NEduration ,10 years,4166
+,'-NEnumber ,39-07-08-07-07,4180
+,'-NEproperName->NEperson ,John,4613
+,'-NEscore ,94: 30,4710
+,'-NEdate -NEtime ,Wednesday March 22- 1995,4929
+,'-NEproperName->NEperson ,Milosevic,5137
+,'-NEproperName->NEperson ,Mandela,5236
+,'-NEproperName->NEperson ,John,5588
+,'-NEduration ,30- 40 years,5594
+,'-NEsize->NElength ,1-442-044 miles,5695
+,'-NEnumber ,1970- 1971- 1975- 1976,5954
+,',fishing,6247
+,'-NEproperName->NEperson ,Mr Major,6532
+,',,6533
+,'-NEsize->NElength ,166.95 miles,6702
+,'-NEunit->NEcurrency -NEproperName->NEperson ,Clinton,6916
+,'-NEproperName->NEperson ,Yeltsin,7364
+,'-NEproperName->NEperson ,Kim Il Sung,7685
+,'-NEnumber ,20-06-08-07-08-07-07-17,7890
+,'-NEnumber ,14-09-09-10,7904
+,',,7904
+,'-NElocation ,NORTH KOREA,7976
+,',,7977
+,'-NEproperName->NEperson ,Wilson,8175
+,'-NElocation->NEcity ,LA,8259
+,'-NElocation ,LA,8299
+,'-NElocation ,LA,8374
+,'-NElocation ,Germany,8504
+,'-NEproperName->NEperson ,Mr Major,9190
+,'-NEsize->NElength ,7000 miles,9276
+,'-NEnumber ,12-10-05-05-05-05-05-05-05-05-05-05-06,9306
+,'-NEtemperature ,130 Kelvin,9330
+,'-NEproperName->NEperson ,John,9695
+,'-NEnumber ,15-000- 25,9751
+,'-NEproperName->NEperson ,Mr Ashby,10431
+,'-NElocation->NEcity ,Anaheim,10503
+,'-NEnumber ,66- 71- 70- 70. 279,10537
+,'-NElocation->NEcity->NEcapital ,provides,10595
+,'-NEproperName->NEperson ,John,11132
+,'-NEproperName->NEperson ,Erik Menendez,11322
+,'-NEdate->NEyear ,1993,11332
+,'-NEdate->NEyear ,1993,11342
+,'-NEdate->NEyear ,1993,11353
+,'-NEdate -NEtime ,Sunday- September 17,11504
+,'-NEdate -NEtime ,April 19- 1993,11515
+,'-NEproperName->NEperson ,JAIME YZAGA,11962
+,'-NEdate -NEtime ,1991,11970
+,',,11971
+,',,11971
+,'-NElocation ,Bonn,11972

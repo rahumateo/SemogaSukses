@@ -1,0 +1,74 @@
+Answers:
+,Question, Q Word, Q English, Keywords, Answer Types, Time Spent
+,﻿Siapakah Rahmat Hidayah?,what is ,what is ﻿sirahmat hidayah?, -﻿sirahmat -hidayah, --,2
+,Kapan persatuan Jerman Timur dan Jerman Barat dilakukan?,when ,when coalescence east germany and west germany dilakukaned?, -coalescence -east germany -and -west germany -dilakukaned, -NEtime -NEdate,0
+,Siapakah presiden dari FIAT?,who is the ,who is the president of fiat?, - -president -of -fiat, -NEproperName -NEproperName->NEperson,0
+,Siapakah yang mengadakan embargo ke Irak?,who ,who made embargo to iraq?, -made -embargo -to -iraq, -NEproperName -NEproperName->NEperson,1
+,Di negara manakah Bosnia berada?,In which ,In which state bosnia well-heeleded?, -state -bosnia -well-heeleded, -NElocation->NEcountry,0
+,Siapakah yang membangun tembok Berlin?,who ,who found wall berlin?, -found -wall -berlin, -NEproperName -NEproperName->NEperson,0
+,Siapakah presiden Republik Italy?,who is the ,who is the president republic italy?, -president -republic -italy, -NEproperName -NEproperName->NEperson,0
+,Siapakah presiden Amerika Serikat?,who is the ,who is the president united states of america?, -president -united states of america, -NEproperName -NEproperName->NEperson,0
+,Apakah ibukota Republik Afrika Selatan?,what is the ,what is the capital of republic south africa?, -capital -of -republic -south africa, -NElocation->NEcity->NEcapital,0
+,Kapankah EEC didirikan?,when ,when eec founded?, -eec -founded, -NEtime -NEdate,0
+,Berapakah jumlah penduduk Swedia?,how many ,how many number desert sweden?, -number -desert -sweden, -NEnumber,0
+,Berapa banyak orang di Berlin?,how many ,how many one in berlin?, -one -in -berlin, -NEnumber,0
+,Berapa harga pil ecstasy di Belanda?,what is the ,what is the rate of pill ecstasy in netherlands?, -rate -of -pill -ecstasy -in -netherlands, -NEmoney,1
+,Apakah nama Perdana Menteri Belanda?,what is ,what is name prime minister netherlands?, -name -prime minister -netherlands, --,0
+,Berapa banyak penduduk yahudi yang dimiliki Israel?,how many ,how many desert jewish the proprietaried israel?, -desert -jewish -the -proprietaried -israel, -NEnumber,1
+,Berapa penduduk yang dimiliki Irak?,how many ,how many desert the proprietaried iraq?, -desert -the -proprietaried -iraq, -NEnumber,0
+,Berapa banyak negara anggota Perserikatan Bangsa-Bangsa?,how many ,how many state member united nations?, -state -member -united nations, -NEnumber,0
+,Kapankah Perserikatan Bangsa-Bangsa memutuskan untuk mengadakan embargo ke Irak?,when ,when union bangsa-bangsa dissolved to made embargo to iraq?, -union -bangsa-bangsa -dissolved -to -made -embargo -to -iraq, -NEtime -NEdate,1
+,Siapakah pemimpin dari Bosnia?,who is the ,who is the director of bosnia?, - -director -of -bosnia, -NEproperName -NEproperName->NEperson,0
+,Kapankah hukuman mati terhapus di Perancis?,when ,when penalty muted nullifieded in france?, -penalty -muted -nullifieded -in -france, -NEtime -NEdate,1
+,Siapakah presiden dari Republik Perancis?,who is the ,who is the president of republic france?, - -president -of -republic -france, -NEproperName -NEproperName->NEperson,0
+,Berapa lamakah Kim Il Sung berkuasa di Korea Utara?,how long ,how long long kim il sung predominated in north korea?, -long -kim -il -sung -predominated -in -north korea, -NEduration,1
+,Berapa banyak populasi di Moscow?,how many ,how many population in moscow?, -population -in -moscow, -NEnumber,0
+,Apa nama putra dari Kim Il Sung?,what is the name of ,what is the name of man of kim il sung?, -man -of -kim -il -sung, -NEproperName,0
+,Berapakah skor pertandingan antara Italia Norwegia pada piala dunia sepakbola?,how many ,how many score game between italy norway in cup world soccer?, -score -game -between -italy -norway -in -cup -world -soccer, -NEnumber,2
+,Kapankah Afrika Selatan didirikan?,when ,when africa so founded?, -africa -so -founded, -NEtime -NEdate,0
+,Siapakah presiden Yugoslavia?,who is the ,who is the president yugoslavia?, -president -yugoslavia, -NEproperName -NEproperName->NEperson,0
+,Siapakah yang mengadopsi konstitusi baru di Afrika?,who ,who adopted constitution new in afrika?, -adopted -constitution -new -in -afrika, -NEproperName -NEproperName->NEperson,1
+,Siapakah pendiri dari the Order of the Solar Temple?,who is the ,who is the father of the order of the solar temple?, - -father -of -the order -of -the -solar -temple, -NEproperName -NEproperName->NEperson,1
+,Pada umur berapakah Joseph di Mambro meninggal?,what ,what life joseph di mambro passed?, -life -joseph di mambro -passed, -NEdate->NEage -NEtime,0
+,Berapakah jarak antara bumi dan matahari?,what is the distance between ,what is the distance between world and sun?, -world -and -sun, -NEsize,1
+,Berapakah populasi dunia?,how many ,how many population world?, -population -world, -NEnumber,0
+,Pada tahun berapakah Spanyol masuk ke European Community?,what ,what year spain entranced to european community?, -year -spain -entranced -to -european -community, -NEdate->NEyear -NEtime,1
+,Siapakah presiden dari Parlemen Eropa?,who is the ,who is the president of european parliament?, - -president -of -european parliament, -NEproperName -NEproperName->NEperson,0
+,Apakah kepanjangan dari GATT?,what is the ,what is the kepanjangan gatt?, -kepanjangan -gatt, -NEproperName,0
+,Berapakah panjang dari tembok Berlin?,what is the ,what is the long of wall berlin?, -long -of -wall -berlin, -NEsize->NElength -NEsize->NEarea,0
+,Apakah nama dari valuta Cina?,what is the name of ,what is the name of of currency china?, -of -currency -china, -NEproperName,0
+,Siapakah presiden Rusia?,who is the ,who is the president russia?, -president -russia, -NEproperName -NEproperName->NEperson,0
+,Siapakah presiden Korea Utara?,who is the ,who is the president north korea?, -president -north korea, -NEproperName -NEproperName->NEperson,0
+,Berapakah populasi Asia?,how many ,how many population asia?, -population -asia, -NEnumber,0
+,Berapa banyak negara anggota Uni Eropa?,how many ,how many state member european union?, -state -member -european union, -NEnumber,0
+,Dari apakah ekstrak methane?,what is the name of ,what is the name of of extract methane?, -of -extract -methane, -NEproperName,0
+,Dimanakah bom atom pertama meledak?,where is ,where is bomb atom first burst?, -bomb -atom -first -burst, -NElocation,1
+,Apakah ibu kota dari Rusia?,what is the ,what is the capital of russia?, -capital -of -russia, -NElocation->NEcity->NEcapital,0
+,Di negara bagian manakah San Fransisco?,In which ,In which state part san fransisco?, -state -part -san -fransisco, -NElocation->NEstate,0
+,Di kota manakah Menara Eiffel?,In which ,In which city tower eiffel?, -city -tower -eiffel, -NElocation->NEcity,0
+,Dimanakah Vatican?,where is ,where is vatican?, -vatican, -NElocation,0
+,Di laut manakah Titanic tenggelam?,In which ,In which sea titanic founder?, -sea -titanic -founder, -NElocation,0
+,Dimanakah Adolf Hitler lahir?,where is ,where is adolf hitler material?, -adolf -hitler -material, -NElocation,0
+,Siapakah menteri ekonomi Jerman?,who is the ,who is the minister economy germany?, -minister -economy -germany, -NEproperName -NEproperName->NEperson,0
+,Berapakah panjang dari Eurotunnel?,what is the ,what is the long of eurotunnel?, -long -of -eurotunnel, -NEsize->NElength -NEsize->NEarea,0
+,Berapa banyak planet di tata surya?,how many ,how many planet in solar system?, -planet -in -solar system, -NEnumber,0
+,Berapakah suhu dari permukaan matahari?,what is the ,what is the temperature of surfactant sun?, -temperature -of -surfactant -sun, -NEtemperature,1
+,Siapakah orang pertama yang mendarat di bulan?,who ,who one first the landed in month?, - -one -first -the -landed -in -month, -NEproperName -NEproperName->NEperson,1
+,Berapakah jumlah pegawai Air France?,how many ,how many number personnel air france?, -number -personnel -air france, -NEnumber,0
+,Siapakah istri dari John Lennon?,who is the ,who is the wive of john lennon?, - -wive -of -john -lennon, -NEproperName -NEproperName->NEperson,0
+,Di kota manakah stadion Delle Alpi?,In which ,In which city stadium delle alpi?, -city -stadium -delle -alpi, -NElocation->NEcity,1
+,Ada berapa banyakkah jenis hiu?,how many ,how many line shark?, -line -shark, -NEnumber,0
+,Apakah ibukota dari Turkmenistan?,what is the ,what is the capital of turkmenistan?, -capital -of -turkmenistan, -NElocation->NEcity->NEcapital,0
+,Siapakah yang memenangkan Tour de France?,who ,who carried tour de france?, -carried -tour de france, -NEproperName -NEproperName->NEperson,0
+,Siapakah saudara laki-laki dari Mika Kaurismäki?,who is the ,who is the brother man of mica kaurismäki?, -brother -man -of -mica -kaurismäki, -NEproperName -NEproperName->NEperson,1
+,Tahun berapakah Ayrton Senna meninggal?,what ,what year ayrton senna passed?, -year -ayrton -senna -passed, -NEdate->NEyear -NEtime,0
+,Pada tahun berapakah dana moneter internasional didirikan?,what ,what year international monetary fund founded?, -year -international monetary fund -founded, -NEdate->NEyear -NEtime,0
+,Pada tahun berapakah bank dunia didirikan?,what ,what year world bank founded?, -year -world bank -founded, -NEdate->NEyear -NEtime,0
+,Kapankah Austria bergabung dengan Schengen?,when ,when austrian federated by schengen?, -austrian -federated -by -schengen, -NEtime -NEdate,1
+,Kapankah bom atom pertama meledak?,when ,when bomb atom first burst?, -bomb -atom -first -burst, -NEtime -NEdate,1
+,Siapakah presiden Peru?,who is the ,who is the president peru?, -president -peru, -NEproperName -NEproperName->NEperson,0
+,Kapankah embargo ke Irak dimulai?,when ,when embargo to iraq began?, -embargo -to -iraq -began, -NEtime -NEdate,0
+,Apakah ibukota Korea Utara?,what is the ,what is the capital of north korea?, -capital -of -north korea, -NElocation->NEcity->NEcapital,0
+,Apakah ibukota Irlandia?,what is the ,what is the capital of ireland?, -capital -of -ireland, -NElocation->NEcity->NEcapital,0
+,Dimanakah Euskirchen?,where is ,where is euskirchen?, -euskirchen, -NElocation,0
+,Dimanakah Euskirchen?,where is ,where is euskirchen?, -euskirchen, -NElocation,0

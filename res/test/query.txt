@@ -1,0 +1,39 @@
+Reading Question : Who is the president of the USA?
+Normalization: who be the president of the usa
+
+query : president USA
+ -- generator : info.ephyra.querygeneration.generators.BagOfWordsG@658b9d9b
+ -- extraction tech : 1.0
+query : president (USA OR US OR U.S.A. OR U.S. OR "United States" OR "United States of America" OR "the States" OR America)
+ -- generator : info.ephyra.querygeneration.generators.BagOfTermsG@31185f32
+ -- extraction tech : 1.5
+query : "USA" president USA
+ -- generator : info.ephyra.querygeneration.generators.QuestionInterpretationG@3711e4cc
+ -- extraction tech : 2.0
+query : "is the president of the USA"
+ -- generator : info.ephyra.querygeneration.generators.QuestionReformulationG@77c42952
+ -- extraction tech : 4.0
+query : "the president of the USA is"
+ -- generator : info.ephyra.querygeneration.generators.QuestionReformulationG@77c42952
+ -- extraction tech : 4.0
+
+
+
+When did the reunification of East Germany and West Germany take place?
+Normalization : when do the reunification of east and west germany take place
+
+query : reunification East West Germany took place
+ -- generator : info.ephyra.querygeneration.generators.BagOfWordsG@6997863e
+ -- extraction tech : 1.0
+query : (reunification OR reunion) (East OR eastward OR "due east") ("West Germany" OR "Federal Republic of Germany") took (place OR spot OR "topographic point")
+ -- generator : info.ephyra.querygeneration.generators.BagOfTermsG@5aee869a
+ -- extraction tech : 1.5
+query : "reunification" "East and West Germany" reunification East West Germany took place
+ -- generator : info.ephyra.querygeneration.generators.QuestionInterpretationG@61c71719
+ -- extraction tech : 2.0
+query : "the reunification of East and West Germany took place in"
+ -- generator : info.ephyra.querygeneration.generators.QuestionReformulationG@55bd9c75
+ -- extraction tech : 5.0
+query : "the reunification of East and West Germany took place on"
+ -- generator : info.ephyra.querygeneration.generators.QuestionReformulationG@55bd9c75
+ -- extraction tech : 5.0
